@@ -49,3 +49,7 @@
 24. Set of logitech speakers in good working condition, 7 pieces - **$150 OBO**
 25. Vaccuum Cleaner - **$10 OBO**
 26. Assorted Kitchen items - **best offer**
+
+***
+
+Disclaimer: Images of all IKEA products obtained from [IKEA.com](ikea.com)
