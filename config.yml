@@ -1,2 +1,14 @@
-theme: minima
 title: "Dartt Hill Sale Items"
+
+# The `>` after `description:` means to ignore line-breaks until next key.
+# If you want to omit the line-break after the end of text, use `>-` instead.
+description: >
+  Items for sale, please contact rkhetani (at) gmail (dot) com to schedule viewing times. We will keep the page updated with availability.
+
+# Build settings
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
