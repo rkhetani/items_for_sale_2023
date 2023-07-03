@@ -27,8 +27,10 @@
   * [MORGEDAL Foam mattress](https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/)
   * See image above
 16. 1 Ikea queen bed frame with slats - **$80 OBO**
-  * [MORGEDAL Foam mattress](https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/)
-  * See image above
+  * [Tarva frame + Luroy slats](https://www.ikea.com/us/en/p/tarva-bed-frame-pine-luroey-s29007794/)
+    <p align="center">
+    <img src="img/tarva.png" width="400">
+    </p>
 19. 1 Ikea simple desk (like new)  - **$30 OBO**
   * [INGO](https://www.ikea.com/us/en/p/ingo-table-pine-14630009/)
     <p align="center">
