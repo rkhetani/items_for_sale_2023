@@ -1,21 +1,21 @@
 # Items for Sale
 
 3. 2 Ikea poang Chairs + 1 matching ottoman (like new) - **$189 OBO for set of 3 items**
-   * [brown/Hillared beige](https://www.ikea.com/us/en/p/poaeng-armchair-brown-hillared-beige-s39336025/#content)
+  * [brown/Hillared beige](https://www.ikea.com/us/en/p/poaeng-armchair-brown-hillared-beige-s39336025/#content)
 5. 2 Ikea side tables (like new) - **$75 OBO for set of 2 items**
-   * [FJALLBO](https://www.ikea.com/us/en/p/fjaellbo-side-table-with-storage-black-70510772/)
+  * [FJALLBO](https://www.ikea.com/us/en/p/fjaellbo-side-table-with-storage-black-70510772/)
 7. 1 Ikea coffee table (like new) - **$42 OBO**
-   * [FJALLBO](https://www.ikea.com/us/en/p/fjaellbo-coffee-table-black-70335486/)
+  * [FJALLBO](https://www.ikea.com/us/en/p/fjaellbo-coffee-table-black-70335486/)
 11. 1 Ikea queen mattress (like new) - **$90 OBO**
-   * [MORGEDAL Foam mattress](https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/)
+  * [MORGEDAL Foam mattress](https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/)
 12. 1 Ikea queen mattress (like new) - **$90 OBO**
-   * [MORGEDAL Foam mattress](https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/)
+  * [MORGEDAL Foam mattress](https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/)
 13. 1 Ikea twin mattress (like new) - **$70 OBO**
-   * [MORGEDAL Foam mattress](https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/)
+  * [MORGEDAL Foam mattress](https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/)
 16. 1 Ikea queen bed frame with slats - **$80 OBO**
-   * [MORGEDAL Foam mattress](https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/)
+  * [MORGEDAL Foam mattress](https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/)
 19. 1 Ikea simple desk (like new)  - **$30 OBO**
-   * [INGO](https://www.ikea.com/us/en/p/ingo-table-pine-14630009/)
+  * [INGO](https://www.ikea.com/us/en/p/ingo-table-pine-14630009/)
 17. 1 bed frame with slats - **$30 OBO**
 18. 2 side tables (new) - **$35 OBO**
 20. 1 hallway table with folding wings - **$30 OBO**
