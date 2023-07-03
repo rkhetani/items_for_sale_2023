@@ -29,7 +29,7 @@
 16. 1 Ikea queen bed frame with slats - **$80 OBO**
   * [Tarva frame + Luroy slats](https://www.ikea.com/us/en/p/tarva-bed-frame-pine-luroey-s29007794/)
     <p align="center">
-    <img src="img/tarva.png" width="400">
+    <img src="img/tarva.png" width="500">
     </p>
 19. 1 Ikea simple desk (like new)  - **$30 OBO**
   * [INGO](https://www.ikea.com/us/en/p/ingo-table-pine-14630009/)
