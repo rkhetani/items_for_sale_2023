@@ -48,10 +48,6 @@
     <p align="center">
     <img src="img/floor_lamp.png" width="100">
     </p>
-10. [Available] 1 Credenza with sliding doors
-  * **$70 OBO**
-23. [Available] 4 wood chairs
-  * **$20 OBO for set of 4 items**
 24. [Available] 5 piece outdoor dining set
   * **$70 OBO for set of 5 items**
   * [42 inch table](https://www.homedepot.com/p/StyleWell-42-in-Mix-and-Match-Lattice-White-Square-Metal-Outdoor-Patio-Dining-Table-with-Slat-Top-FTS70660-W/305779760#overlay)
@@ -62,6 +58,15 @@
     <p align="center">
     <img src="img/white_chairs.png" width="250">
     </p>
+24. [Available] Set of logitech speakers in great working condition, 7 pieces
+  * **$150 OBO**
+    <p align="center">
+    <img src="img/logitech_speakers.png" width="350">
+    </p>
+10. [Available] 1 Credenza with sliding doors
+  * **$70 OBO**
+23. [Available] 4 wood chairs
+  * **$20 OBO for set of 4 items**
 17. [Available] 1 bed frame with slats
   * **$30 OBO**
 19. [Available] 2 side tables (new)
@@ -74,8 +79,6 @@
   * **$75 OBO for set**
 1. [Available] TV
   * **$40 OBO**
-24. [Available] Set of logitech speakers in good working condition, 7 pieces
-  * **$150 OBO**
 26. [Available] Vaccuum Cleaner
   * **$10 OBO**
 28. [Available] Assorted Kitchen items
