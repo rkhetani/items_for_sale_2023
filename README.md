@@ -105,9 +105,10 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <img src="img/dining_table.jpg" width="400">
     </p>
 14. [Available] 1 solid wood twin and 1 queen matching bed frames
+  * Can be sold separately, if needed
   * **$75 OBO for set**
     <p align="center">
-    <img src="img/wood_bed_set.jpg" width="400">
+    <img src="img/wood_bed_set.jpg" width="500">
     </p>
 1. [Available] TV
   * <a href="https://www.amazon.com/gp/product/B004SNA992/ref=ppx_yo_dt_b_search_asin_title" style="text-decoration: underline;">Samsung LN46D630 46-Inch 1080p LCD HDTV (Black) (2011 Model)</a>
