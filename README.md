@@ -105,6 +105,8 @@
     </p>
 1. [Available] TV
   * [Samsung LN46D630 46-Inch 1080p LCD HDTV (Black) (2011 Model)](https://www.amazon.com/gp/product/B004SNA992/ref=ppx_yo_dt_b_search_asin_title)
+  * Works great!
+  * Can function as a monitor (we have used it as a monitor for the last 6 years)
   * **$40 OBO**
     <p align="center">
     <img src="img/TV.jpg" width="400">
