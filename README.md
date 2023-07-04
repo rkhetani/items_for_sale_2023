@@ -31,7 +31,13 @@
   * [Tarva frame + Luroy slats](https://www.ikea.com/us/en/p/tarva-bed-frame-pine-luroey-s29007794/)
   * **$80 OBO**
     <p align="center">
-    <img src="img/tarva.png" width="500">
+    <img src="img/tarva_bed.png" width="500">
+    </p>
+1. [Available] **3** IKEA side tables (like new)
+  * [Tarva Nightstand, pine](https://www.ikea.com/us/en/p/tarva-nightstand-pine-50219609/)
+  * **$40 OBO for *each* nightstand** (lamp not included)
+    <p align="center">
+    <img src="img/tarva.png" width="400">
     </p>
 19. [Available] 1 Ikea simple desk (like new)
   * [INGO](https://www.ikea.com/us/en/p/ingo-table-pine-14630009/)
@@ -81,12 +87,6 @@
   * **$35 OBO for set of 2 side tables** (lamp not included)
     <p align="center">
     <img src="img/side_table_lamp_white.jpg" width="400">
-    </p>
-1. [Available] **3** IKEA side tables (like new)
-  * [Tarva Nightstand, pine](https://www.ikea.com/us/en/p/tarva-nightstand-pine-50219609/)
-  * **$40 OBO for *each* nightstand** (lamp not included)
-    <p align="center">
-    <img src="img/tarva.png" width="400">
     </p>
 21. [Available] 1 hallway table with folding wings
   * **$30 OBO**
