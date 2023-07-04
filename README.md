@@ -1,4 +1,3 @@
-# The list
 
 3. 2 Ikea poang Chairs + 1 matching ottoman (like new) - **$189 OBO for set of 3 items**
   * [brown/Hillared beige](https://www.ikea.com/us/en/p/poaeng-armchair-brown-hillared-beige-s39336025/#content)
@@ -41,8 +40,8 @@
     <img src="img/floor_lamp.png" width="100">
     </p>
 10. 1 Credenza with sliding doors - **$70 OBO**
-23. 4 wood chairs - **$20 OBO for set**
-24. 5 piece outdoor dining set - **$70 OBO**
+23. 4 wood chairs - **$20 OBO for set of 4 items**
+24. 5 piece outdoor dining set - **$70 OBO for set of 5 items**
  * [42 inch table](https://www.homedepot.com/p/StyleWell-42-in-Mix-and-Match-Lattice-White-Square-Metal-Outdoor-Patio-Dining-Table-with-Slat-Top-FTS70660-W/305779760#overlay)
     <p align="center">
     <img src="img/white_table.png" width="250">
