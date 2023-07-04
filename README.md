@@ -1,18 +1,18 @@
 
-3. [Available] 2 Ikea poang Chairs + 1 matching ottoman (like new)
-  * [brown/Hillared beige](https://www.ikea.com/us/en/p/poaeng-armchair-brown-hillared-beige-s39336025/#content)
+3. [Available] 2 Ikea Poang Chairs + 1 matching ottoman (like new)
+  * [Poang, brown/Hillared beige](https://www.ikea.com/us/en/p/poaeng-armchair-brown-hillared-beige-s39336025/#content)
   * **$189 OBO for set of 3 items**
     <p align="center">
     <img src="img/poang.png" width="400">
     </p>
 5. [Available] 2 Ikea side tables (like new)
-  * [FJALLBO](https://www.ikea.com/us/en/p/fjaellbo-side-table-with-storage-black-70510772/)
+  * [FJALLBO side table](https://www.ikea.com/us/en/p/fjaellbo-side-table-with-storage-black-70510772/)
   * **$75 OBO for set of 2 items**
     <p align="center">
     <img src="img/fjallsbo.png" width="200">
     </p>
 7. [Available] 1 Ikea coffee table (like new) 
-  * [FJALLBO](https://www.ikea.com/us/en/p/fjaellbo-coffee-table-black-70335486/)
+  * [FJALLBO coffee table](https://www.ikea.com/us/en/p/fjaellbo-coffee-table-black-70335486/)
   * **$42 OBO**
     <p align="center">
     <img src="img/fjallsbo2.png" width="400">
@@ -35,12 +35,13 @@
     </p>
 1. [Available] **3** IKEA side tables (like new)
   * [Tarva Nightstand, pine](https://www.ikea.com/us/en/p/tarva-nightstand-pine-50219609/)
+  * Matches the bed frame listed above
   * **$40 OBO for *each* nightstand** (lamp not included)
     <p align="center">
     <img src="img/tarva.png" width="400">
     </p>
 19. [Available] 1 Ikea simple desk (like new)
-  * [INGO](https://www.ikea.com/us/en/p/ingo-table-pine-14630009/)
+  * [INGO table, pine](https://www.ikea.com/us/en/p/ingo-table-pine-14630009/)
   * **$30 OBO**
     <p align="center">
     <img src="img/ingo.png" width="250">
