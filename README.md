@@ -104,11 +104,12 @@
     <img src="img/wood_bed_set.jpg" width="400">
     </p>
 1. [Available] TV
+  * [Samsung LN46D630 46-Inch 1080p LCD HDTV (Black) (2011 Model)](https://www.amazon.com/gp/product/B004SNA992/ref=ppx_yo_dt_b_search_asin_title)
   * **$40 OBO**
     <p align="center">
     <img src="img/TV.jpg" width="400">
     </p>
-26. [Available] Vaccuum Cleaner
+26. [Available] Vacuum Cleaner
   * **$10 OBO**
 28. [Available] Assorted Kitchen items
   * **best offer**
