@@ -17,16 +17,12 @@
     <p align="center">
     <img src="img/fjallsbo2.png" width="400">
     </p>
-11. [Available] 1 Ikea ***queen*** mattress (like new)
+11. [Available] **2** Ikea ***queen*** mattress (like new)
   * [MORGEDAL Foam mattress](https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/)
-  * **$90 OBO**
+  * **$90 OBO for *each* mattress**
     <p align="center">
     <img src="img/morgedal.png" width="400">
     </p>
-12. [Available] 1 Ikea ***queen*** mattress (like new)
-  * [MORGEDAL Foam mattress](https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/)
-  * **$90 OBO**
-  * See image above
 13. [Available] 1 Ikea ***twin*** mattress (like new)
   * [MORGEDAL Foam mattress](https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/)
   * **$70 OBO**
@@ -49,14 +45,11 @@
     <img src="img/floor_lamp.png" width="100">
     </p>
 24. [Available] 5 piece outdoor dining set
-  * **$70 OBO for set of 5 items**
   * [42 inch table](https://www.homedepot.com/p/StyleWell-42-in-Mix-and-Match-Lattice-White-Square-Metal-Outdoor-Patio-Dining-Table-with-Slat-Top-FTS70660-W/305779760#overlay)
-    <p align="center">
-    <img src="img/white_table.png" width="250">
-    </p>
   * 4 chairs - "*Stylewell Mix and Match White Steel Sling Outdoor Patio Dining Chair in White*" (no longer avaialble at home depot)
+  * **$70 OBO for set of 5 items**
     <p align="center">
-    <img src="img/white_chairs.png" width="250">
+    <img src="img/outdoor_set.jpg" width="400">
     </p>
 24. [Available] Set of logitech speakers (Z-5500) in great working condition, 8 pieces
   * **$150 OBO for set of 8 items**
@@ -71,20 +64,50 @@
     </p>
 10. [Available] 1 Credenza with sliding doors
   * **$70 OBO**
+    <p align="center">
+    <img src="img/credenza.jpg" width="400">
+    </p>
 23. [Available] 4 wood chairs
   * **$20 OBO for set of 4 items**
+    <p align="center">
+    <img src="img/dining_chairs.jpg" width="400">
+    </p>
 17. [Available] 1 bed frame with slats
   * **$30 OBO**
+    <p align="center">
+    <img src="img/queen1.jpg" width="400">
+    </p>
 19. [Available] 2 side tables (new)
-  * **$35 OBO**
+  * **$35 OBO for set of 2 side tables** (lamp not included)
+    <p align="center">
+    <img src="img/side_table_lamp_white.jpg" width="400">
+    </p>
+1. [Available] **3** IKEA side tables (like new)
+  * [Tarva Nightstand, pine](https://www.ikea.com/us/en/p/tarva-nightstand-pine-50219609/)
+  * **$40 OBO for *each* nightstand** (lamp not included)
+    <p align="center">
+    <img src="img/tarva.png" width="400">
+    </p>
 21. [Available] 1 hallway table with folding wings
   * **$30 OBO**
+    <p align="center">
+    <img src="img/hallway_table.jpg" width="400">
+    </p>
 23. [Available] 1 wood dining table with extending leaf
   * **$30 OBO**
+    <p align="center">
+    <img src="img/dining_table.jpg" width="400">
+    </p>
 14. [Available] 1 solid wood twin and 1 queen matching bed frames
   * **$75 OBO for set**
+    <p align="center">
+    <img src="img/wood_bed_set.jpg" width="400">
+    </p>
 1. [Available] TV
   * **$40 OBO**
+    <p align="center">
+    <img src="img/TV.jpg" width="400">
+    </p>
 26. [Available] Vaccuum Cleaner
   * **$10 OBO**
 28. [Available] Assorted Kitchen items
