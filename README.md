@@ -1,48 +1,47 @@
 
 3. [Available] 2 Ikea Poang Chairs + 1 matching ottoman (like new)
-  * [Poang, brown/Hillared beige](https://www.ikea.com/us/en/p/poaeng-armchair-brown-hillared-beige-s39336025/#content)
   * <a href="https://www.ikea.com/us/en/p/poaeng-armchair-brown-hillared-beige-s39336025/#content" style="text-decoration: underline;">Poang, brown/Hillared beige</a>
   * **$189 OBO for set of 3 items**
     <p align="center">
     <img src="img/poang.png" width="400">
     </p>
 5. [Available] 2 Ikea side tables (like new)
-  * [FJALLBO side table](https://www.ikea.com/us/en/p/fjaellbo-side-table-with-storage-black-70510772/)
+  * <a href="https://www.ikea.com/us/en/p/fjaellbo-side-table-with-storage-black-70510772/" style="text-decoration: underline;">FJALLBO side table</a>
   * **$75 OBO for set of 2 items**
     <p align="center">
     <img src="img/fjallsbo.png" width="200">
     </p>
 7. [Available] 1 Ikea coffee table (like new) 
-  * [FJALLBO coffee table](https://www.ikea.com/us/en/p/fjaellbo-coffee-table-black-70335486/)
+  * <a href="https://www.ikea.com/us/en/p/fjaellbo-coffee-table-black-70335486/" style="text-decoration: underline;">FJALLBO coffee table</a>
   * **$42 OBO**
     <p align="center">
     <img src="img/fjallsbo2.png" width="400">
     </p>
 11. [Available] **2** Ikea ***queen*** mattress (like new)
-  * [MORGEDAL Foam mattress](https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/)
+  * <a href="https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/" style="text-decoration: underline;">MORGEDAL Foam mattress</a>
   * **$90 OBO for *each* mattress**
     <p align="center">
     <img src="img/morgedal.png" width="400">
     </p>
 13. [Available] 1 Ikea ***twin*** mattress (like new)
-  * [MORGEDAL Foam mattress](https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/)
+  * <a href="https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/" style="text-decoration: underline;">MORGEDAL Foam mattress - Twin</a>
   * **$70 OBO**
   * See image above
 16. [Available] 1 Ikea ***queen*** bed frame with slats
-  * [Tarva frame + Luroy slats](https://www.ikea.com/us/en/p/tarva-bed-frame-pine-luroey-s29007794/)
+  * <a href="https://www.ikea.com/us/en/p/tarva-bed-frame-pine-luroey-s29007794/" style="text-decoration: underline;">Tarva frame + Luroy slats</a>
   * **$80 OBO**
     <p align="center">
     <img src="img/tarva_bed.png" width="500">
     </p>
 1. [Available] **3** IKEA side tables (like new)
-  * [Tarva Nightstand, pine](https://www.ikea.com/us/en/p/tarva-nightstand-pine-50219609/)
+  * <a href="https://www.ikea.com/us/en/p/tarva-nightstand-pine-50219609/" style="text-decoration: underline;">Tarva Nightstand, pine</a>
   * Matches the bed frame listed above
   * **$40 OBO for *each* nightstand** (lamp not included)
     <p align="center">
     <img src="img/tarva.png" width="400">
     </p>
 19. [Available] 1 Ikea simple desk (like new)
-  * [INGO table, pine](https://www.ikea.com/us/en/p/ingo-table-pine-14630009/)
+  * <a href="https://www.ikea.com/us/en/p/ingo-table-pine-14630009/" style="text-decoration: underline;">INGO table, pine</a>
   * **$30 OBO**
     <p align="center">
     <img src="img/ingo.png" width="250">
@@ -53,7 +52,7 @@
     <img src="img/floor_lamp.png" width="100">
     </p>
 24. [Available] 5 piece outdoor dining set
-  * [42 inch table](https://www.homedepot.com/p/StyleWell-42-in-Mix-and-Match-Lattice-White-Square-Metal-Outdoor-Patio-Dining-Table-with-Slat-Top-FTS70660-W/305779760#overlay)
+  * <a href="https://www.homedepot.com/p/StyleWell-42-in-Mix-and-Match-Lattice-White-Square-Metal-Outdoor-Patio-Dining-Table-with-Slat-Top-FTS70660-W/305779760#overlay" style="text-decoration: underline;">42 inch table</a>
   * 4 chairs - "*Stylewell Mix and Match White Steel Sling Outdoor Patio Dining Chair in White*" (no longer avaialble at home depot)
   * **$70 OBO for set of 5 items**
     <p align="center">
@@ -65,7 +64,7 @@
     <img src="img/logitech_speakers.png" width="350">
     </p>
 1. [Available] 1 Room & Board Deco Convertible Sleeper Sofa
-  * [Deco Convertible Sleeper Sofa](https://www.roomandboard.com/catalog/living/sleeper-sofas/deco-convertible-sleeper-sofa)
+  * <a href="https://www.roomandboard.com/catalog/living/sleeper-sofas/deco-convertible-sleeper-sofa" style="text-decoration: underline;">Deco Convertible Sleeper Sofa</a>
   * **$200 OBO**
     <p align="center">
     <img src="img/sofa.png" width="450">
@@ -106,7 +105,7 @@
     <img src="img/wood_bed_set.jpg" width="400">
     </p>
 1. [Available] TV
-  * [Samsung LN46D630 46-Inch 1080p LCD HDTV (Black) (2011 Model)](https://www.amazon.com/gp/product/B004SNA992/ref=ppx_yo_dt_b_search_asin_title)
+  * <a href="https://www.amazon.com/gp/product/B004SNA992/ref=ppx_yo_dt_b_search_asin_title" style="text-decoration: underline;">Samsung LN46D630 46-Inch 1080p LCD HDTV (Black) (2011 Model)</a>
   * Works great!
   * Can function as a monitor (we have used it as a monitor for the last 6 years)
   * **$40 OBO**
