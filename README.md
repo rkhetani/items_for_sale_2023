@@ -58,7 +58,7 @@
     <p align="center">
     <img src="img/white_chairs.png" width="250">
     </p>
-24. [Available] Set of logitech speakers in great working condition, 7 pieces
+24. [Available] Set of logitech speakers (Z-5500) in great working condition, 7 pieces
   * **$150 OBO**
     <p align="center">
     <img src="img/logitech_speakers.png" width="350">
