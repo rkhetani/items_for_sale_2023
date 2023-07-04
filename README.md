@@ -76,7 +76,7 @@
 23. [Available] 4 wood chairs
   * **$20 OBO for set of 4 items**
     <p align="center">
-    <img src="img/dining_chairs.jpg" width="400">
+    <img src="img/dining_chairs.jpg" width="250">
     </p>
 17. [Available] 1 bed frame with slats
   * **$30 OBO**
@@ -86,12 +86,12 @@
 19. [Available] 2 side tables (new)
   * **$35 OBO for set of 2 side tables** (lamp not included)
     <p align="center">
-    <img src="img/side_table_lamp_white.jpg" width="400">
+    <img src="img/side_table_lamp_white.jpg" width="125">
     </p>
 21. [Available] 1 hallway table with folding wings
   * **$30 OBO**
     <p align="center">
-    <img src="img/hallway_table.jpg" width="400">
+    <img src="img/hallway_table.jpg" width="300">
     </p>
 23. [Available] 1 wood dining table with extending leaf
   * **$30 OBO**
