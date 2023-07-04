@@ -63,6 +63,12 @@
     <p align="center">
     <img src="img/logitech_speakers.png" width="350">
     </p>
+1. [Available] 1 Room & Board Deco Convertible Sleeper Sofa
+  * [Deco Convertible Sleeper Sofa](https://www.roomandboard.com/catalog/living/sleeper-sofas/deco-convertible-sleeper-sofa)
+  * **$200 OBO**
+    <p align="center">
+    <img src="img/sofa.png" width="450">
+    </p>
 10. [Available] 1 Credenza with sliding doors
   * **$70 OBO**
 23. [Available] 4 wood chairs
