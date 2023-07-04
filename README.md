@@ -1,7 +1,7 @@
 
 3. [Available] 2 Ikea Poang Chairs + 1 matching ottoman (like new)
   * [Poang, brown/Hillared beige](https://www.ikea.com/us/en/p/poaeng-armchair-brown-hillared-beige-s39336025/#content)
-  * <a href="https://www.ikea.com/us/en/p/poaeng-armchair-brown-hillared-beige-s39336025/#content" style="color: blue; text-decoration: underline;">Poang, brown/Hillared beige</a>
+  * <a href="https://www.ikea.com/us/en/p/poaeng-armchair-brown-hillared-beige-s39336025/#content" style="text-decoration: underline;">Poang, brown/Hillared beige</a>
   * **$189 OBO for set of 3 items**
     <p align="center">
     <img src="img/poang.png" width="400">
