@@ -1,4 +1,4 @@
-If you are interested in any of the items listed here, you are welcome to come check them out on **Dartt Hill Road in Bethel, VT** and ***pick them up before July 16th**. Email me (Radhika) at [my gmail address](mailto:khetani.r@gmail.com) for the our location and to negotiate prices. 
+If you are interested in any of the items listed here, you are welcome to come check them out on **Dartt Hill Road in Bethel, VT** and **pick them up before July 16th**. Email me (Radhika) at [my gmail address](mailto:khetani.r@gmail.com) for the our location and to negotiate prices. 
 
 Please note that we cannot deliver anything, you will have to come pick up the item(s).
 
