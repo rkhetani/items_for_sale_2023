@@ -4,6 +4,8 @@ Please note that we cannot deliver anything, you will have to come pick up the i
 
 ***
 
+## Available items
+
 5. [Available] 2 Ikea side tables (like new)
   * <a href="https://www.ikea.com/us/en/p/fjaellbo-side-table-with-storage-black-70510772/" style="text-decoration: underline;">FJALLBO side table</a>
   * **$75 OBO for set of 2 items**
@@ -85,6 +87,8 @@ Please note that we cannot deliver anything, you will have to come pick up the i
   * **best offer**
 
 ***
+
+## Pending items
 
 1. [Pending] Vacuum Cleaner
   * **$10 OBO**
