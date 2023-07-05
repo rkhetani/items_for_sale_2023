@@ -21,7 +21,9 @@ Please note that we cannot deliver anything, you will have to come pick up the i
 11. [Available] **1** Ikea ***queen*** mattress (like new)
   * <a href="https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/" style="text-decoration: underline;">MORGEDAL Foam mattress</a>
   * **$90 OBO for *each* mattress**
-  * See image above
+    <p align="center">
+    <img src="img/morgedal.png" width="400">
+    </p>
 13. [Available] 1 Ikea ***twin*** mattress (like new)
   * <a href="https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/" style="text-decoration: underline;">MORGEDAL Foam mattress - Twin</a>
   * **$70 OBO**
