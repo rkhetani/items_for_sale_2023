@@ -4,7 +4,7 @@ Please note that we cannot deliver anything, you will have to come pick up the i
 
 ***
 
-3. [Available] 2 Ikea Poang Chairs + 1 matching ottoman (like new)
+3. [Pending] 2 Ikea Poang Chairs + 1 matching ottoman (like new)
   * <a href="https://www.ikea.com/us/en/p/poaeng-armchair-brown-hillared-beige-s39336025/#content" style="text-decoration: underline;">Poang, brown/Hillared beige</a>
   * **$189 OBO for set of 3 items**
     <p align="center">
@@ -22,12 +22,16 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/fjallsbo2.png" width="400">
     </p>
-11. [Available] **2** Ikea ***queen*** mattress (like new)
+11. [Pending] **1** Ikea ***queen*** mattress (like new)
   * <a href="https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/" style="text-decoration: underline;">MORGEDAL Foam mattress</a>
   * **$90 OBO for *each* mattress**
     <p align="center">
     <img src="img/morgedal.png" width="400">
     </p>
+11. [Available] **1** Ikea ***queen*** mattress (like new)
+  * <a href="https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/" style="text-decoration: underline;">MORGEDAL Foam mattress</a>
+  * **$90 OBO for *each* mattress**
+  * See image above
 13. [Available] 1 Ikea ***twin*** mattress (like new)
   * <a href="https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/" style="text-decoration: underline;">MORGEDAL Foam mattress - Twin</a>
   * **$70 OBO**
@@ -51,7 +55,7 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/ingo.png" width="250">
     </p>
-15. [Available] 2 tall lamps with shelving
+15. [Pending] 2 tall lamps with shelving
   * <a href="https://www.homedepot.com/pep/Simple-Designs-62-5-in-Black-Floor-Lamp-Etagere-Organizer-Storage-Shelf-with-Linen-Shade-LF1014-BLK/205951764" style="text-decoration: underline;">62.5 in. Black Floor Lamp Etagere Organizer Storage Shelf</a>
   * **$45 OBO for set of 2 items**
     <p align="center">
@@ -69,7 +73,7 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/logitech_speakers.png" width="350">
     </p>
-1. [Available] 1 Room & Board Deco Convertible Sleeper Sofa
+1. [Pending] 1 Room & Board Deco Convertible Sleeper Sofa
   * <a href="https://www.roomandboard.com/catalog/living/sleeper-sofas/deco-convertible-sleeper-sofa" style="text-decoration: underline;">Deco Convertible Sleeper Sofa</a>
   * **$200 OBO**
     <p align="center">
