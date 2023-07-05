@@ -52,6 +52,7 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <img src="img/ingo.png" width="250">
     </p>
 15. [Available] 2 tall lamps with shelving
+  * <a href="https://www.homedepot.com/pep/Simple-Designs-62-5-in-Black-Floor-Lamp-Etagere-Organizer-Storage-Shelf-with-Linen-Shade-LF1014-BLK/205951764" style="text-decoration: underline;">62.5 in. Black Floor Lamp Etagere Organizer Storage Shelf</a>
   * **$45 OBO for set of 2 items**
     <p align="center">
     <img src="img/floor_lamp.png" width="100">
@@ -118,6 +119,14 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/TV.jpg" width="400">
     </p>
+1. [Available] 2 office chairs (like new)
+  * <a href="https://www.amazon.com/gp/product/B08SC54XG1/" style="text-decoration: underline;">LONGBOSS Office Chair Ergonomic Computer Desk Mesh Chair, Back Waist Cushion and Height Adjustable Armrest</a>
+  * 1 gray chair (pictured)
+  * 1 black chair (not pictured)
+  * **$95 OBO for *each* chair**
+    <p align="center">
+    <img src="img/office_chair.jpg" width="200">
+    </p> 
 26. [Available] Vacuum Cleaner
   * **$10 OBO**
 28. [Available] Assorted Kitchen items
