@@ -49,7 +49,7 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/tarva.png" width="400">
     </p>
-19. [Available] 1 Ikea simple desk (like new)
+19. [Pending] 1 Ikea simple desk (like new)
   * <a href="https://www.ikea.com/us/en/p/ingo-table-pine-14630009/" style="text-decoration: underline;">INGO table, pine</a>
   * **$30 OBO**
     <p align="center">
@@ -61,7 +61,7 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/floor_lamp.png" width="100">
     </p>
-24. [Available] 5 piece outdoor dining set
+24. [Pending] 5 piece outdoor dining set
   * <a href="https://www.homedepot.com/p/StyleWell-42-in-Mix-and-Match-Lattice-White-Square-Metal-Outdoor-Patio-Dining-Table-with-Slat-Top-FTS70660-W/305779760#overlay" style="text-decoration: underline;">42 inch table</a>
   * 4 chairs - "*Stylewell Mix and Match White Steel Sling Outdoor Patio Dining Chair in White*" (no longer avaialble at home depot)
   * **$70 OBO for set of 5 items**
@@ -109,7 +109,7 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/dining_table.jpg" width="400">
     </p>
-14. [Available] 1 solid wood twin and 1 queen matching bed frames
+14. [Both items pending separately] 1 solid wood twin and 1 queen matching bed frames
   * Can be sold separately, if needed
   * **$75 OBO for set**
     <p align="center">
@@ -131,7 +131,7 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/office_chair.jpg" width="200">
     </p> 
-26. [Available] Vacuum Cleaner
+26. [Pending] Vacuum Cleaner
   * **$10 OBO**
 28. [Available] Assorted Kitchen items
   * **best offer**
