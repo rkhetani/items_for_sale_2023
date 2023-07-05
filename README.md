@@ -38,7 +38,7 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/tarva_bed.png" width="500">
     </p>
-1. [Available] **3** IKEA side tables (like new)
+1. [Available] **2** IKEA side tables (like new)
   * <a href="https://www.ikea.com/us/en/p/tarva-nightstand-pine-50219609/" style="text-decoration: underline;">Tarva Nightstand, pine</a>
   * Matches the bed frame listed above
   * **$40 OBO for *each* nightstand** (lamp not included)
