@@ -18,12 +18,6 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/fjallsbo.png" width="200">
     </p>
-7. [Available] 1 Ikea coffee table (like new) 
-  * <a href="https://www.ikea.com/us/en/p/fjaellbo-coffee-table-black-70335486/" style="text-decoration: underline;">FJALLBO coffee table</a>
-  * **$42 OBO**
-    <p align="center">
-    <img src="img/fjallsbo2.png" width="400">
-    </p>
 11. [Available] **1** Ikea ***queen*** mattress (like new)
   * <a href="https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/" style="text-decoration: underline;">MORGEDAL Foam mattress</a>
   * **$90 OBO for *each* mattress**
@@ -50,21 +44,6 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/credenza.jpg" width="400">
     </p>
-23. [Available] 4 wood chairs
-  * **$20 OBO for set of 4 items**
-    <p align="center">
-    <img src="img/dining_chairs.jpg" width="250">
-    </p>
-17. [Available] 1 bed frame with slats
-  * **$30 OBO**
-    <p align="center">
-    <img src="img/queen1.jpg" width="400">
-    </p>
-19. [Available] 2 side tables (new)
-  * **$35 OBO for set of 2 side tables** (lamp not included)
-    <p align="center">
-    <img src="img/side_table_lamp_white.jpg" width="125">
-    </p>
 21. [Available] 1 hallway table with folding wings
   * **$30 OBO**
     <p align="center">
@@ -74,14 +53,6 @@ Please note that we cannot deliver anything, you will have to come pick up the i
   * **$30 OBO**
     <p align="center">
     <img src="img/dining_table.jpg" width="400">
-    </p>
-1. [Available] TV
-  * <a href="https://www.amazon.com/gp/product/B004SNA992/ref=ppx_yo_dt_b_search_asin_title" style="text-decoration: underline;">Samsung LN46D630 46-Inch 1080p LCD HDTV (Black) (2011 Model)</a>
-  * Works great!
-  * Can function as a monitor (we have used it as a monitor for the last 6 years)
-  * **$40 OBO**
-    <p align="center">
-    <img src="img/TV.jpg" width="400">
     </p>
 1. [Available] 2 office chairs (like new)
   * <a href="https://www.amazon.com/gp/product/B08SC54XG1/" style="text-decoration: underline;">LONGBOSS Office Chair Ergonomic Computer Desk Mesh Chair, Back Waist Cushion and Height Adjustable Armrest</a>
@@ -98,9 +69,29 @@ Please note that we cannot deliver anything, you will have to come pick up the i
 
 ## Pending items
 
+7. [Pending] 1 Ikea coffee table (like new) 
+  * <a href="https://www.ikea.com/us/en/p/fjaellbo-coffee-table-black-70335486/" style="text-decoration: underline;">FJALLBO coffee table</a>
+  * **$42 OBO**
+    <p align="center">
+    <img src="img/fjallsbo2.png" width="400">
+    </p>
+23. [Pending] 4 wood chairs
+  * **$20 OBO for set of 4 items**
+    <p align="center">
+    <img src="img/dining_chairs.jpg" width="250">
+    </p>
+17. [Pending] 1 bed frame with slats
+  * **$30 OBO**
+    <p align="center">
+    <img src="img/queen1.jpg" width="400">
+    </p>
+19. [Pending] 2 side tables (new)
+  * **$35 OBO for set of 2 side tables** (lamp not included)
+    <p align="center">
+    <img src="img/side_table_lamp_white.jpg" width="125">
+    </p>
 1. [Pending] Vacuum Cleaner
   * **$10 OBO**
-
 3. [Pending] 2 Ikea Poang Chairs + 1 matching ottoman (like new)
   * <a href="https://www.ikea.com/us/en/p/poaeng-armchair-brown-hillared-beige-s39336025/#content" style="text-decoration: underline;">Poang, brown/Hillared beige</a>
   * **$189 OBO for set of 3 items**
@@ -151,7 +142,14 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/wood_bed_set.jpg" width="500">
     </p>
-
+1. [Pending] TV
+  * <a href="https://www.amazon.com/gp/product/B004SNA992/ref=ppx_yo_dt_b_search_asin_title" style="text-decoration: underline;">Samsung LN46D630 46-Inch 1080p LCD HDTV (Black) (2011 Model)</a>
+  * Works great!
+  * Can function as a monitor (we have used it as a monitor for the last 6 years)
+  * **$40 OBO**
+    <p align="center">
+    <img src="img/TV.jpg" width="400">
+    </p>
 ***
 
 Disclaimer: 
