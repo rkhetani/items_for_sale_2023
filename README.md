@@ -6,6 +6,12 @@ Please note that we cannot deliver anything, you will have to come pick up the i
 
 ## Available items
 
+1. [Available] 2 Ikea adjustable height swivel chairs
+   * <a href="https://www.ikea.com/us/en/p/kullaberg-swivel-chair-pine-black-10320341/" style="text-decoration: underline;">KULLABERG Swivel chair, pine/black</a>
+   * **$85 OBO for set of 2 items**
+    <p align="center">
+    <img src="img/bar_stools.png" width="300">
+    </p>
 5. [Available] 2 Ikea side tables (like new)
   * <a href="https://www.ikea.com/us/en/p/fjaellbo-side-table-with-storage-black-70510772/" style="text-decoration: underline;">FJALLBO side table</a>
   * **$75 OBO for set of 2 items**
