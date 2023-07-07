@@ -58,6 +58,9 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/office_chair.jpg" width="200">
     </p> 
+1. [Available] Vacuum Cleaner
+  * <a href="https://www.homedepot.com/p/Shark-Navigator-Lift-Away-Self-Cleaning-Brushroll-Upright-Vacuum-ZU561/306529678" style="text-decoration: underline;">Shark - Navigator Lift-Away Self-Cleaning Brushroll Upright Vacuum</a>
+  * **$45 OBO**
 28. [Available] Assorted Kitchen items
   * **best offer**
 
@@ -86,8 +89,6 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/side_table_lamp_white.jpg" width="125">
     </p>
-1. [Pending] Vacuum Cleaner
-  * **$10 OBO**
 3. [Pending] 2 Ikea Poang Chairs + 1 matching ottoman (like new)
   * <a href="https://www.ikea.com/us/en/p/poaeng-armchair-brown-hillared-beige-s39336025/#content" style="text-decoration: underline;">Poang, brown/Hillared beige</a>
   * **$189 OBO for set of 3 items**
