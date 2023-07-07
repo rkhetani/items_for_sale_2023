@@ -87,11 +87,6 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/queen1.jpg" width="400">
     </p>
-19. [Pending] 2 side tables (new)
-  * **$35 OBO for set of 2 side tables** (lamp not included)
-    <p align="center">
-    <img src="img/side_table_lamp_white.jpg" width="125">
-    </p>
 3. [Pending] 2 Ikea Poang Chairs + 1 matching ottoman (like new)
   * <a href="https://www.ikea.com/us/en/p/poaeng-armchair-brown-hillared-beige-s39336025/#content" style="text-decoration: underline;">Poang, brown/Hillared beige</a>
   * **$189 OBO for set of 3 items**
@@ -111,24 +106,11 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/tarva.png" width="400">
     </p>
-19. [Pending] 1 Ikea simple desk (like new)
-  * <a href="https://www.ikea.com/us/en/p/ingo-table-pine-14630009/" style="text-decoration: underline;">INGO table, pine</a>
-  * **$30 OBO**
-    <p align="center">
-    <img src="img/ingo.png" width="250">
-    </p>
 15. [Pending] 2 tall lamps with shelving
   * <a href="https://www.homedepot.com/pep/Simple-Designs-62-5-in-Black-Floor-Lamp-Etagere-Organizer-Storage-Shelf-with-Linen-Shade-LF1014-BLK/205951764" style="text-decoration: underline;">62.5 in. Black Floor Lamp Etagere Organizer Storage Shelf</a>
   * **$45 OBO for set of 2 items**
     <p align="center">
     <img src="img/floor_lamp.png" width="100">
-    </p>
-24. [SOLD] 5 piece outdoor dining set
-  * <a href="https://www.homedepot.com/p/StyleWell-42-in-Mix-and-Match-Lattice-White-Square-Metal-Outdoor-Patio-Dining-Table-with-Slat-Top-FTS70660-W/305779760#overlay" style="text-decoration: underline;">42 inch table</a>
-  * 4 chairs - "*Stylewell Mix and Match White Steel Sling Outdoor Patio Dining Chair in White*" (no longer avaialble at home depot)
-  * **$70 OBO for set of 5 items**
-    <p align="center">
-    <img src="img/outdoor_set.jpg" width="400">
     </p>
 1. [Pending] 1 Room & Board Deco Convertible Sleeper Sofa
   * <a href="https://www.roomandboard.com/catalog/living/sleeper-sofas/deco-convertible-sleeper-sofa" style="text-decoration: underline;">Deco Convertible Sleeper Sofa</a>
