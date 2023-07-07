@@ -123,7 +123,7 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/floor_lamp.png" width="100">
     </p>
-24. [Pending] 5 piece outdoor dining set
+24. [SOLD] 5 piece outdoor dining set
   * <a href="https://www.homedepot.com/p/StyleWell-42-in-Mix-and-Match-Lattice-White-Square-Metal-Outdoor-Patio-Dining-Table-with-Slat-Top-FTS70660-W/305779760#overlay" style="text-decoration: underline;">42 inch table</a>
   * 4 chairs - "*Stylewell Mix and Match White Steel Sling Outdoor Patio Dining Chair in White*" (no longer avaialble at home depot)
   * **$70 OBO for set of 5 items**
