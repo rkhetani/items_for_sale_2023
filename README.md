@@ -12,6 +12,13 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/bar_stools.png" width="300">
     </p>
+1. [Available] **3** IKEA nightstands (like new)
+  * <a href="https://www.ikea.com/us/en/p/tarva-nightstand-pine-50219609/" style="text-decoration: underline;">Tarva Nightstand, pine</a>
+  * Matches the bed frame listed above
+  * **$40 OBO for *each* nightstand** (lamp not included)
+    <p align="center">
+    <img src="img/tarva.png" width="400">
+    </p>
 5. [Available] 2 Ikea side tables (like new)
   * <a href="https://www.ikea.com/us/en/p/fjaellbo-side-table-with-storage-black-70510772/" style="text-decoration: underline;">FJALLBO side table</a>
   * **$75 OBO for set of 2 items**
@@ -98,13 +105,6 @@ Please note that we cannot deliver anything, you will have to come pick up the i
   * **$90 OBO for *each* mattress**
     <p align="center">
     <img src="img/morgedal.png" width="400">
-    </p>
-1. [Pending] **2** IKEA nightstands (like new)
-  * <a href="https://www.ikea.com/us/en/p/tarva-nightstand-pine-50219609/" style="text-decoration: underline;">Tarva Nightstand, pine</a>
-  * Matches the bed frame listed above
-  * **$40 OBO for *each* nightstand** (lamp not included)
-    <p align="center">
-    <img src="img/tarva.png" width="400">
     </p>
 15. [Pending] 2 tall lamps with shelving
   * <a href="https://www.homedepot.com/pep/Simple-Designs-62-5-in-Black-Floor-Lamp-Etagere-Organizer-Storage-Shelf-with-Linen-Shade-LF1014-BLK/205951764" style="text-decoration: underline;">62.5 in. Black Floor Lamp Etagere Organizer Storage Shelf</a>
