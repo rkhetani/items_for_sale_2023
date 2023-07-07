@@ -61,6 +61,9 @@ Please note that we cannot deliver anything, you will have to come pick up the i
 1. [Available] Vacuum Cleaner
   * <a href="https://www.homedepot.com/p/Shark-Navigator-Lift-Away-Self-Cleaning-Brushroll-Upright-Vacuum-ZU561/306529678" style="text-decoration: underline;">Shark - Navigator Lift-Away Self-Cleaning Brushroll Upright Vacuum</a>
   * **$45 OBO**
+    <p align="center">
+    <img src="img/vacuum.jpg" width="275">
+    </p> 
 28. [Available] Assorted Kitchen items
   * **best offer**
 
