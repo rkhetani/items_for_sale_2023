@@ -24,10 +24,6 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/morgedal.png" width="400">
     </p>
-13. [Available] 1 Ikea ***twin*** mattress (like new)
-  * <a href="https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/" style="text-decoration: underline;">MORGEDAL Foam mattress - Twin</a>
-  * **$70 OBO**
-  * See image above
 16. [Available] 1 Ikea ***queen*** bed frame with slats
   * <a href="https://www.ikea.com/us/en/p/tarva-bed-frame-pine-luroey-s29007794/" style="text-decoration: underline;">Tarva frame + Luroy slats</a>
   * **$80 OBO**
@@ -150,6 +146,10 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/TV.jpg" width="400">
     </p>
+13. [Pending] 1 Ikea ***twin*** mattress (like new)
+  * <a href="https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/" style="text-decoration: underline;">MORGEDAL Foam mattress - Twin</a>
+  * **$70 OBO**
+  * See image above
 ***
 
 Disclaimer: 
