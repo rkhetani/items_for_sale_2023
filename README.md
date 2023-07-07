@@ -45,11 +45,6 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/hallway_table.jpg" width="300">
     </p>
-23. [Available] 1 wood dining table with extending leaf
-  * **$30 OBO**
-    <p align="center">
-    <img src="img/dining_table.jpg" width="400">
-    </p>
 1. [Available] 2 office chairs (like new)
   * <a href="https://www.amazon.com/gp/product/B08SC54XG1/" style="text-decoration: underline;">LONGBOSS Office Chair Ergonomic Computer Desk Mesh Chair, Back Waist Cushion and Height Adjustable Armrest</a>
   * 1 gray chair (pictured)
@@ -81,6 +76,11 @@ Please note that we cannot deliver anything, you will have to come pick up the i
   * **$20 OBO for set of 4 items**
     <p align="center">
     <img src="img/dining_chairs.jpg" width="250">
+    </p>
+23. [Pending] 1 wood dining table with extending leaf
+  * **$30 OBO**
+    <p align="center">
+    <img src="img/dining_table.jpg" width="400">
     </p>
 17. [Pending] 1 bed frame with slats
   * **$30 OBO**
