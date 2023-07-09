@@ -24,6 +24,11 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/morgedal.png" width="400">
     </p>
+17. [Available] 1 bed frame with slats
+  * **$30 OBO**
+    <p align="center">
+    <img src="img/queen1.jpg" width="400">
+    </p>
 16. [Available] 1 Ikea ***queen*** bed frame with slats
   * <a href="https://www.ikea.com/us/en/p/tarva-bed-frame-pine-luroey-s29007794/" style="text-decoration: underline;">Tarva frame + Luroy slats</a>
   * **$80 OBO**
@@ -88,11 +93,6 @@ Please note that we cannot deliver anything, you will have to come pick up the i
   * **$30 OBO**
     <p align="center">
     <img src="img/dining_table.jpg" width="400">
-    </p>
-17. [Pending] 1 bed frame with slats
-  * **$30 OBO**
-    <p align="center">
-    <img src="img/queen1.jpg" width="400">
     </p>
 11. [Pending] **1** Ikea ***queen*** mattress (like new)
   * <a href="https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/" style="text-decoration: underline;">MORGEDAL Foam mattress</a>
