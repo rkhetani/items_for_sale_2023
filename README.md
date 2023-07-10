@@ -35,6 +35,9 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/tarva_bed.png" width="600">
     </p>
+    <p align="center">
+    <img src="img/tarva_queen.jpg" width="400">
+    </p>
 1. [Available] **3** IKEA nightstands (like new)
   * <a href="https://www.ikea.com/us/en/p/tarva-nightstand-pine-50219609/" style="text-decoration: underline;">Tarva Nightstand, pine</a>
   * Matches the bed frame listed above
