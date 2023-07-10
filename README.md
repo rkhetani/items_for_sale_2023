@@ -6,6 +6,13 @@ Please note that we cannot deliver anything, you will have to come pick up the i
 
 ## Available items
 
+1. [Available] LG NuChef Microwave [like new]
+   * [2.0 cu. ft. NeoChef™ Countertop Microwave with Smart Inverter and EasyClean®](https://www.lg.com/us/cooking-appliances/lg-lmc2075st-counter-top-microwave)
+   * In excellent condition
+   * **$120 OBO**
+    <p align="center">
+    <img src="img/LG_microwave.png" width="325">
+    </p>
 1. [Available] 2 Ikea adjustable height swivel chairs
    * <a href="https://www.ikea.com/us/en/p/kullaberg-swivel-chair-pine-black-10320341/" style="text-decoration: underline;">KULLABERG Swivel chair, pine/black</a>
    * **$85 OBO for set of 2 items**
