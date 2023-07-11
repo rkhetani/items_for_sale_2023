@@ -37,9 +37,10 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <img src="img/morgedal.png" width="400">
     </p>
 14. [Available] 1 solid wood **twin** bed frame
+  * Inset shows the slats
   * **$30 OBO for set**
     <p align="center">
-    <img src="img/wood_bed_set.jpg" width="500">
+    <img src="img/wood_twin.jpg" width="400">
     </p>
 16. [Available] 1 Ikea ***queen*** bed frame with slats
   * <a href="https://www.ikea.com/us/en/p/tarva-bed-frame-pine-luroey-s29007794/" style="text-decoration: underline;">Tarva frame + Luroy slats</a>
@@ -100,7 +101,7 @@ Please note that we cannot deliver anything, you will have to come pick up the i
 14. [Pending] 1 solid wood queen bed frame
   * **$40 OBO for set**
     <p align="center">
-    <img src="img/wood_bed_set.jpg" width="500">
+    <img src="img/wood_queen.jpg" width="400">
     </p>
 ***
 
