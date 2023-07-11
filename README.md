@@ -110,18 +110,6 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/wood_bed_set.jpg" width="500">
     </p>
-1. [Pending] TV
-  * <a href="https://www.amazon.com/gp/product/B004SNA992/ref=ppx_yo_dt_b_search_asin_title" style="text-decoration: underline;">Samsung LN46D630 46-Inch 1080p LCD HDTV (Black) (2011 Model)</a>
-  * Works great!
-  * Can function as a monitor (we have used it as a monitor for the last 6 years)
-  * **$40 OBO**
-    <p align="center">
-    <img src="img/TV.jpg" width="400">
-    </p>
-13. [Pending] 1 Ikea ***twin*** mattress (like new)
-  * <a href="https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/" style="text-decoration: underline;">MORGEDAL Foam mattress - Twin</a>
-  * **$70 OBO**
-  * See image above
 ***
 
 Disclaimer: 
