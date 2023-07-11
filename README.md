@@ -19,11 +19,16 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/bar_stools.png" width="300">
     </p>
-5. [Available] 2 Ikea side tables (like new)
-  * <a href="https://www.ikea.com/us/en/p/fjaellbo-side-table-with-storage-black-70510772/" style="text-decoration: underline;">FJALLBO side table</a>
-  * **$75 OBO for set of 2 items**
+5. [Available] living room set of 3 from Ikea (Fjallsbo) (like new)
+  * 2 side tables
+  * 1 coffee table
+  * <a href="https://www.ikea.com/us/en/p/fjaellbo-side-table-with-storage-black-70510772/" style="text-decoration: underline;">FJALLBO side table - </a>
+  * **$100 OBO for set of 3 items**
     <p align="center">
     <img src="img/fjallsbo.png" width="200">
+    </p>
+    <p align="center">
+    <img src="img/fjallsbo2.png" width="400">
     </p>
 11. [Available] **1** Ikea ***queen*** mattress (like new)
   * <a href="https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/" style="text-decoration: underline;">MORGEDAL Foam mattress</a>
@@ -83,12 +88,6 @@ Please note that we cannot deliver anything, you will have to come pick up the i
 
 ## Pending items
 
-7. [Pending] 1 Ikea coffee table (like new) 
-  * <a href="https://www.ikea.com/us/en/p/fjaellbo-coffee-table-black-70335486/" style="text-decoration: underline;">FJALLBO coffee table</a>
-  * **$42 OBO**
-    <p align="center">
-    <img src="img/fjallsbo2.png" width="400">
-    </p>
 23. [Pending] 4 wood chairs
   * **$20 OBO for set of 4 items**
     <p align="center">
