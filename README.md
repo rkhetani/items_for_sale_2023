@@ -30,11 +30,16 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/fjallsbo2.png" width="400">
     </p>
-11. [Available] **1** Ikea ***queen*** mattress (like new)
+11. [Available] **2** Ikea ***queen*** mattress (like new)
   * <a href="https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/" style="text-decoration: underline;">MORGEDAL Foam mattress</a>
   * **$90 OBO for *each* mattress**
     <p align="center">
     <img src="img/morgedal.png" width="400">
+    </p>
+14. [Available] 1 solid wood **twin** bed frame
+  * **$30 OBO for set**
+    <p align="center">
+    <img src="img/wood_bed_set.jpg" width="500">
     </p>
 16. [Available] 1 Ikea ***queen*** bed frame with slats
   * <a href="https://www.ikea.com/us/en/p/tarva-bed-frame-pine-luroey-s29007794/" style="text-decoration: underline;">Tarva frame + Luroy slats</a>
@@ -75,12 +80,6 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/office_chair.jpg" width="200">
     </p> 
-1. [Available] Vacuum Cleaner
-  * <a href="https://www.homedepot.com/p/Shark-Navigator-Lift-Away-Self-Cleaning-Brushroll-Upright-Vacuum-ZU561/306529678" style="text-decoration: underline;">Shark - Navigator Lift-Away Self-Cleaning Brushroll Upright Vacuum</a>
-  * **$45 OBO**
-    <p align="center">
-    <img src="img/vacuum.jpg" width="275">
-    </p> 
 28. [Available] Assorted Kitchen items
   * **best offer**
 
@@ -98,15 +97,8 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/dining_table.jpg" width="400">
     </p>
-11. [Pending] **1** Ikea ***queen*** mattress (like new)
-  * <a href="https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/" style="text-decoration: underline;">MORGEDAL Foam mattress</a>
-  * **$90 OBO for *each* mattress**
-    <p align="center">
-    <img src="img/morgedal.png" width="400">
-    </p>
-14. [Both items pending separately] 1 solid wood twin and 1 queen matching bed frames
-  * Can be sold separately, if needed
-  * **$75 OBO for set**
+14. [Pending] 1 solid wood queen bed frame
+  * **$40 OBO for set**
     <p align="center">
     <img src="img/wood_bed_set.jpg" width="500">
     </p>
