@@ -109,11 +109,6 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/dining_table.jpg" width="400">
     </p>
-14. [Pending] 1 solid wood queen bed frame
-  * **$40 OBO for set**
-    <p align="center">
-    <img src="img/wood_queen.jpg" width="400">
-    </p>
 ***
 
 Disclaimer: 
