@@ -6,8 +6,19 @@ Please note that we cannot deliver anything, you will have to come pick up the i
 
 ## Available items
 
+1. [Available] 1 (maybe 2) Asus 27.8inch monitor
+   * HDMI, VGA and display ports
+   * Adjustable screen height
+   * Portrait or Landscape mode
+   * Speakers built in
+   * In good condition (bought in 2015)
+   * **$100 OBO (for each monitor)**
+   * <a href="https://www.amazon.com/ASUS-PB278Q-2560x1440-DisplayPort-Monitor/dp/B009C3M7H0/" style="text-decoration: underline;">ASUS 27" 1440P Eye Care Monitor (PB278Q) - QHD (2560 x 1440), IPS, DisplayPort, HDMI, DVI</a>
+    <p align="center">
+    <img src="img/asus_monitor.jpg" width="400">
+    </p>
 1. [Available] LG NuChef Microwave [like new]
-   * [2.0 cu. ft. NeoChef™ Countertop Microwave with Smart Inverter and EasyClean®](https://www.lg.com/us/cooking-appliances/lg-lmc2075st-counter-top-microwave)
+   * <a href="https://www.lg.com/us/cooking-appliances/lg-lmc2075st-counter-top-microwave" style="text-decoration: underline;">2.0 cu. ft. NeoChef™ Countertop Microwave with Smart Inverter and EasyClean®</a>
    * In excellent condition
    * **$120 OBO**
     <p align="center">
