@@ -1,14 +1,10 @@
-[Samuel Goodbaum] $50
-Dining set
-**Pick up on** - July 13
-
-[Graham Schulz] $40
-Wooden queen frame ($40)
-**Pick up on** - July 12
-
-[Jon Ciappa] $0
-Queen bed frame ($30)
-**Pick up on** - whenever
+[Felicia Dieffenbach] $160
+queen bed
+queen mattress
+shoe benches
+rug
+alcohol cart
+coffee table??
 
 ***
 ***
@@ -31,5 +27,14 @@ simple table
 [James Dolan] $110
 TV
 twin mattress
-**Pick up on** - July 11
+**Picked up on** - July 11
+
+[Graham Schulz] $40
+Wooden queen frame ($40)
+**Picked up on** - July 12
+
+[Samuel Goodbaum] $50
+Dining set
+**Picked up on** - July 13
+
 
