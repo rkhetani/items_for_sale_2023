@@ -6,7 +6,7 @@ Please note that we cannot deliver anything, you will have to come pick up the i
 
 ## Available items
 
-1. [Available] 1 (maybe 2) Asus 27.8inch monitor
+1. [Available] 1 (maybe 2) Asus 27.8 inch monitor
    * HDMI, VGA and display ports
    * Adjustable screen height
    * Portrait or Landscape mode
