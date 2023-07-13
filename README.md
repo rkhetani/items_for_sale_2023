@@ -41,7 +41,7 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/fjallsbo2.png" width="400">
     </p>
-11. [Available] **2** Ikea ***queen*** mattress (like new)
+11. [Available] **1** Ikea ***queen*** mattress (like new)
   * <a href="https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/" style="text-decoration: underline;">MORGEDAL Foam mattress</a>
   * **$90 OBO for *each* mattress**
     <p align="center">
@@ -62,13 +62,6 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/tarva_queen.jpg" width="400">
     </p>
-1. [Available] **3** IKEA nightstands (like new)
-  * <a href="https://www.ikea.com/us/en/p/tarva-nightstand-pine-50219609/" style="text-decoration: underline;">Tarva Nightstand, pine</a>
-  * Matches the bed frame listed above
-  * **$40 OBO for *each* nightstand** (lamp not included)
-    <p align="center">
-    <img src="img/tarva.png" width="400">
-    </p>
 24. [Available] Set of logitech speakers (Z-5500) in great working condition, 8 pieces
   * **$150 OBO for set of 8 items**
     <p align="center">
@@ -79,11 +72,6 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/credenza.jpg" width="400">
     </p>
-21. [Available] 1 hallway table with folding wings
-  * **$30 OBO**
-    <p align="center">
-    <img src="img/hallway_table.jpg" width="300">
-    </p>
 1. [Available] 2 office chairs (like new)
   * <a href="https://www.amazon.com/gp/product/B08SC54XG1/" style="text-decoration: underline;">LONGBOSS Office Chair Ergonomic Computer Desk Mesh Chair, Back Waist Cushion and Height Adjustable Armrest</a>
   * 1 gray chair (pictured)
@@ -92,23 +80,6 @@ Please note that we cannot deliver anything, you will have to come pick up the i
     <p align="center">
     <img src="img/office_chair.jpg" width="200">
     </p> 
-28. [Available] Assorted Kitchen items
-  * **best offer**
-
-***
-
-## Pending items
-
-23. [Pending] 4 wood chairs
-  * **$20 OBO for set of 4 items**
-    <p align="center">
-    <img src="img/dining_chairs.jpg" width="250">
-    </p>
-23. [Pending] 1 wood dining table with extending leaf
-  * **$30 OBO**
-    <p align="center">
-    <img src="img/dining_table.jpg" width="400">
-    </p>
 ***
 
 Disclaimer: 
