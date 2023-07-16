@@ -1,85 +1,80 @@
-If you are interested in any of the items listed here, you are welcome to come check them out on **Dartt Hill Road in Bethel, VT** and **pick them up before July 16th**. Email me (Radhika) at [my gmail address](mailto:khetani.r@gmail.com) for our location and to negotiate prices. 
-
-Please note that we cannot deliver anything, you will have to come pick up the item(s).
-
-***
-
 ## Available items
 
-1. [Available] 1 (maybe 2) Asus 27.8 inch monitor
+1. [Available] 1 Asus 27.8 inch monitor
    * HDMI, VGA and display ports
    * Adjustable screen height
    * Portrait or Landscape mode
    * Speakers built in
    * In good condition (bought in 2015)
-   * **$100 OBO (for each monitor)**
+   * **free or best offer**
    * <a href="https://www.amazon.com/ASUS-PB278Q-2560x1440-DisplayPort-Monitor/dp/B009C3M7H0/" style="text-decoration: underline;">ASUS 27" 1440P Eye Care Monitor (PB278Q) - QHD (2560 x 1440), IPS, DisplayPort, HDMI, DVI</a>
     <p align="center">
     <img src="img/asus_monitor.jpg" width="400">
     </p>
-1. [Available] LG NuChef Microwave [like new]
+1. [Available] LG NuChef Microwave **[like new]**
    * <a href="https://www.lg.com/us/cooking-appliances/lg-lmc2075st-counter-top-microwave" style="text-decoration: underline;">2.0 cu. ft. NeoChef™ Countertop Microwave with Smart Inverter and EasyClean®</a>
    * In excellent condition
-   * **$120 OBO**
+   * **free or best offer**
     <p align="center">
     <img src="img/LG_microwave.png" width="325">
-    </p>
-1. [Available] 2 Ikea adjustable height swivel chairs
+    </p> 
+1. [Available] 2 Ikea adjustable height swivel chairs **[like new]**
    * <a href="https://www.ikea.com/us/en/p/kullaberg-swivel-chair-pine-black-10320341/" style="text-decoration: underline;">KULLABERG Swivel chair, pine/black</a>
-   * **$85 OBO for set of 2 items**
+   * **free or best offer**
     <p align="center">
     <img src="img/bar_stools.png" width="300">
     </p>
-5. [Available] living room set of 3 from Ikea (Fjallsbo) (like new)
+5. [Available] living room set of 3 from Ikea (Fjallsbo) **[like new]**
   * 2 side tables
   * 1 coffee table
   * <a href="https://www.ikea.com/us/en/p/fjaellbo-side-table-with-storage-black-70510772/" style="text-decoration: underline;">FJALLBO side table - </a>
-  * **$100 OBO for set of 3 items**
+  * **free or best offer**
     <p align="center">
     <img src="img/fjallsbo.png" width="200">
     </p>
     <p align="center">
     <img src="img/fjallsbo2.png" width="400">
     </p>
-11. [Available] **1** Ikea ***queen*** mattress (like new)
+11. [Available] **1** Ikea ***queen*** mattress **[like new]**
   * <a href="https://www.ikea.com/us/en/p/morgedal-foam-mattress-firm-dark-gray-30277389/" style="text-decoration: underline;">MORGEDAL Foam mattress</a>
-  * **$90 OBO**
+  * **free or best offer**
     <p align="center">
     <img src="img/morgedal.png" width="400">
     </p>
-14. [Available] 1 solid wood **twin** bed frame
-  * Inset shows the slats
-  * **$30 OBO for set**
-    <p align="center">
-    <img src="img/wood_twin.jpg" width="400">
-    </p>
-16. [Available] 1 Ikea ***queen*** bed frame with slats
+16. [Available] 1 Ikea ***queen*** bed frame with slats **[like new]**
   * <a href="https://www.ikea.com/us/en/p/tarva-bed-frame-pine-luroey-s29007794/" style="text-decoration: underline;">Tarva frame + Luroy slats</a>
-  * **$80 OBO**
+  * **free or best offer**
     <p align="center">
     <img src="img/tarva_bed.png" width="600">
     </p>
     <p align="center">
     <img src="img/tarva_queen.jpg" width="400">
     </p>
+1. [Available] 1 wood twin bedframe
+  * Sturdy bed frame in good condition
+  * **free or best offer**
+    <p align="center">
+    <img src="img/wood_twin.jpg" width="400">
+    </p>
 24. [Available] Set of logitech speakers (Z-5500) in great working condition, 8 pieces
-  * **$150 OBO for set of 8 items**
+  * **free or best offer**
     <p align="center">
     <img src="img/logitech_speakers.png" width="350">
     </p>
 10. [Available] 1 Credenza with sliding doors
-  * **$70 OBO**
+  * **free or best offer**
     <p align="center">
     <img src="img/credenza.jpg" width="400">
     </p>
-1. [Available] 2 office chairs (like new)
-  * <a href="https://www.amazon.com/gp/product/B08SC54XG1/" style="text-decoration: underline;">LONGBOSS Office Chair Ergonomic Computer Desk Mesh Chair, Back Waist Cushion and Height Adjustable Armrest</a>
-  * 1 gray chair (pictured)
-  * 1 black chair (not pictured)
-  * **$95 OBO for *each* chair**
-    <p align="center">
-    <img src="img/office_chair.jpg" width="200">
-    </p> 
+1. [Available] Kitchen goods - **free or best offer**
+  * Full set of silverware: knives, forks, teaspoons, spoons
+  * OXO pizza cutter
+  * metal mixing bowl
+  * Baratza coffee grinder
+  * Glass Chemex
+  * 2 large red mugs
+  * a few mismatched mugs
+    
 ***
 
 Disclaimer: 
