@@ -68,10 +68,10 @@
     </p>
 1. [Available] Kitchen goods - **free or best offer**
   * Full set of silverware: knives, forks, teaspoons, spoons
-  * OXO pizza cutter
+  * [KitchenAid Classic Pizza Wheel, 9-Inch, Black](https://www.amazon.com/gp/product/B07YP2VL68/)
   * metal mixing bowl
-  * Baratza coffee grinder
-  * Glass Chemex
+  * [Baratza Encore Conical Burr Coffee Grinder (Black)](https://www.amazon.com/Baratza-Encore-Conical-Coffee-Grinder/dp/B007F183LK)
+  * [Chemex Pour-Over Glass Coffeemaker - 10-Cup](https://www.amazon.com/Chemex-Classic-Pour-Over-Glass-Coffeemaker/dp/B000NTMHRW/)
   * 2 large red mugs
   * a few mismatched mugs
     
