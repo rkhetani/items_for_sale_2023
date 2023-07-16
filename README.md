@@ -67,13 +67,15 @@
     <img src="img/credenza.jpg" width="400">
     </p>
 1. [Available] Kitchen goods - **free or best offer**
-  * Full set of silverware: knives, forks, teaspoons, spoons
-  * [KitchenAid Classic Pizza Wheel, 9-Inch, Black](https://www.amazon.com/gp/product/B07YP2VL68/)
-  * metal mixing bowl
-  * [Baratza Encore Conical Burr Coffee Grinder (Black)](https://www.amazon.com/Baratza-Encore-Conical-Coffee-Grinder/dp/B007F183LK)
-  * [Chemex Pour-Over Glass Coffeemaker - 10-Cup](https://www.amazon.com/Chemex-Classic-Pour-Over-Glass-Coffeemaker/dp/B000NTMHRW/)
-  * 2 large red mugs
-  * a few mismatched mugs
+  1. Full set of silverware: knives, forks, teaspoons, spoons
+  1. [KitchenAid Classic Pizza Wheel, 9-Inch, Black](https://www.amazon.com/gp/product/B07YP2VL68/)
+  1. metal mixing bowl
+  2. [Baratza Encore Conical Burr Coffee Grinder (Black)](https://www.amazon.com/Baratza-Encore-Conical-Coffee-Grinder/dp/B007F183LK)
+  3. [Chemex Pour-Over Glass Coffeemaker - 10-Cup](https://www.amazon.com/Chemex-Classic-Pour-Over-Glass-Coffeemaker/dp/B000NTMHRW/)
+  6. Pizza stone
+  7. [Lodge LDP3 Reversible Grill/Griddle, 9.5-inch x 16.75-inch](https://www.amazon.com/Lodge-Reversible-Griddle-Combo-Double-Sided/dp/B002CMLTXG)
+  8. 2 large red mugs
+  5. a few mismatched mugs
     
 ***
 
