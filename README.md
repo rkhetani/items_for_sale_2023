@@ -18,11 +18,18 @@
     <p align="center">
     <img src="img/LG_microwave.png" width="325">
     </p> 
+1. [Available] Portable Air Conditioner
+   * <a href="https://www.bestbuy.com/site/insignia-450-sq-ft-portable-air-conditioner-white-gray/6145111.p?skuId=6145111" style="text-decoration: underline;">Insignia™ - 450 Sq. Ft. Portable Air Conditioner - White/Gray</a>
+   * No remote 
+   * **free or best offer**
+    <p align="center">
+    <img src="img/ac.png" width="300">
+    </p>
 1. [Available] 2 Ikea adjustable height swivel chairs **[like new]**
    * <a href="https://www.ikea.com/us/en/p/kullaberg-swivel-chair-pine-black-10320341/" style="text-decoration: underline;">KULLABERG Swivel chair, pine/black</a>
    * **free or best offer**
     <p align="center">
-    <img src="img/bar_stools.png" width="300">
+    <img src="img/bar_stools.png" width="200">
     </p>
 5. [Available] living room set of 3 from Ikea (Fjallsbo) **[like new]**
   * 2 side tables
